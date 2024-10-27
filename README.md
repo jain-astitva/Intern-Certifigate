@@ -1,1 +1,1 @@
-# Intern-Certifigate
+# Intern-Certificate
